@@ -14,7 +14,7 @@ i =1
 while i ==1:
     driver=webdriver.Chrome()
 
-    driver.get('https://www.kayak.com.br/flights/GRU-FRA/2020-12-15/2021-01-05?sort=price_a&fs=stops=-2')
+    driver.get('https://www.kayak.com.br/flights/GRU-FRA/2024-12-15/2025-01-05?sort=price_a&fs=stops=-2')
 
 
     time.sleep(20)
